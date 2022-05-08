@@ -1,9 +1,5 @@
-window.addEventListener('DOMLoadedContent', async1);
-/*const URLS = [
-            `https://jsonplaceholder.typicode.com/comments/1`,
-	`https://jsonplaceholder.typicode.com/comments/2`,
-	`https://jsonplaceholder.typicode.com/comments/3`
-             ]*/
+/*window.addEventListener('DOMLoadedContent', async1);
+
 async function async1(){
 	const URLS = [
             `https://jsonplaceholder.typicode.com/comments/1`,
@@ -32,3 +28,5 @@ async function async1(){
 	})
 }
 async1()
+
+*/
