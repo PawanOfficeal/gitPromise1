@@ -1,0 +1,11 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing: border-box;
+}
+p{font-family: helvetica,sans-serif,sans-ser;}
+html{background-color: #44705F;}
+#article-one-div{background-color: #AAF2DB; color:white; }
+footer{background-color: lightskyblue;}
+
+.articleErr-one{color: red;}
